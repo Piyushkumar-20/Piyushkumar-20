@@ -1,60 +1,47 @@
-```ts
-const piyush = {
-  role: "Backend & Full Stack Developer",
-  location: "India",
-  focus: [
-    "Backend Systems",
-    "Real-Time Applications",
-    "System Design",
-    "Developer Tools"
-  ],
-  currentlyLearning: [
-    "Distributed Systems",
-    "Advanced DSA"
-  ]
-};
+<div align="center">
+
+# Piyush Kumar
+
+**Backend & Full Stack Developer**
+
+Building reliable APIs, real-time systems, and clean web applications.
+
+</div>
+
+<br>
+
+## Tech Stack
+
+```
+Languages     JavaScript · TypeScript
+Backend       Node.js · Express.js · Socket.IO
+Frontend      React · Next.js
+Database      PostgreSQL · MongoDB · Redis
+ORM           Prisma · Drizzle
+Tooling       Docker · Git
 ```
 
-### Tech Stack
+<br>
 
-```text
-Languages    JavaScript • TypeScript
+## Featured Projects
 
-Frontend     React • Next.js • Tailwind CSS
+**[TripSync](https://github.com/Piyushkumar-20)** — Collaborative trip planning platform with role-based access, day-wise itineraries, and budget tracking.
 
-Backend      Node.js • Express.js • Socket.IO
+**[FlowForm](https://github.com/Piyushkumar-20)** — Full-stack form builder SaaS for creating and sharing custom forms with real-time responses.
 
-Database     MongoDB • PostgreSQL • Redis
+**[Rinzoo Website](https://github.com/Piyushkumar-20)** — Marketing and product website built for performance and clean presentation.
 
-Tools        Git • Docker • Prisma • Drizzle
-```
+**[League Management API](https://github.com/Piyushkumar-20)** — REST API for managing teams, fixtures, and standings in sports leagues.
 
-### Featured Projects
+**[OIDC Auth Server](https://github.com/Piyushkumar-20)** — OAuth 2.0 / OpenID Connect authentication server for secure sign-in flows.
 
-```text
-TripSync
-├── Real-time Collaboration
-├── Socket.IO
-├── Redis
-└── MERN Stack
+<br>
 
-FlowForm
-├── Dynamic Form Builder
-├── TypeScript
-└── Workflow Management
+## GitHub Stats
 
-Rinzoo Website
-├── Corporate Website
-├── Admin Dashboard
-└── Next.js
+<div align="center">
 
-League Management API
-├── JWT Authentication
-├── RBAC
-└── REST API
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushkumar-20&show_icons=true&hide_border=true&theme=default&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushkumar-20&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Piyushkumar-20&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushkumar-20&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+</div>
