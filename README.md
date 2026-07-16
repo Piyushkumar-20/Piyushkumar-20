@@ -15,9 +15,7 @@
 <br/>
 
 CS Engineering student (Class of 2027) building full stack products — auth systems, APIs, dashboards, and real-time apps. Currently focused on Data Structures & Algorithms, AI Engineering, and Modern Frontend Development.
-
 <br/>
-
 ## Projects
 
 **TripSync** — Collaborative trip-planning platform with real-time itineraries and role-based access. `React` `Node.js` `PostgreSQL`
@@ -31,9 +29,7 @@ CS Engineering student (Class of 2027) building full stack products — auth sys
 **Rinzoo** — Marketing site engineered for speed and clean presentation. `Next.js` `Tailwind`
 
 **MailPoint** — Email-to-task automation using the Gmail and Google Calendar APIs. `TypeScript` `Node.js`
-
 <br/>
-
 ## Stack
 
 <div align="center">
