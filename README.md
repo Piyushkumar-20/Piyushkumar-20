@@ -88,18 +88,6 @@ Performance-focused marketing website built with a clean, responsive frontend ar
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Piyushkumar-20&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushkumar-20&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%"/>
